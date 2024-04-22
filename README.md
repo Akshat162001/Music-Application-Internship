@@ -26,3 +26,6 @@ This is a Django web application for managing and streaming music. Users can sig
 
 4. Open your web browser and visit `http://localhost:8000` to view the application
 
+## Contributing
+
+Contributions are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.
